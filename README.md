@@ -1,5 +1,7 @@
-### Hi there 👋
-
+<h1 align="center">Hola soy Fernando. Estudiante GS DAM 👋</h1>
+<p align="center">
+  <img src="https://www.grupoioe.es/wp-content/uploads/2022/09/Desarrollador-web-frond-back-end.jpg">
+</p>
 <!--
 **FernandoAGD/FernandoAGD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
