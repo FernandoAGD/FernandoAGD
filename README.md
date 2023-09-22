@@ -7,6 +7,14 @@
 
 En 2020 decidi iniciar mis estudios hacia la informatica, estudiando un Grado Medio, decidi seguir y me encamine hacia el Superior de DAM, desde entonces me encanta la programacion y me encanta programar.Soy un apasionado desarrollador  en camino de seguir aprendiendo.
 
+<h1>Lenguajes</h1>
+
+- Java
+- HTML
+- CSS
+- PHP
+- JavaScript
+- BDD
 
 <h1>¡Contacto!</h1>
 
