@@ -5,9 +5,7 @@
 
 <h1>Acerca de mí</h1>
 
-Soy un apasionado desarrollador de aplicaciones con un enfoque en la creación de soluciones innovadoras y funcionales. 
-Mi objetivo es aprender y crecer constantemente en el mundo del desarrollo de software mientras colaboro en proyectos emocionantes y desafiantes.
-
+En 2020 decidi iniciar mis estudios hacia la informatica, estudiando un Grado Medio, decidi seguir y me encamine hacia el Superior de DAM, desde entonces me encanta la programacion y me encanta programar.Soy un apasionado desarrollador  en camino de seguir aprendiendo.
 
 
 <h1>¡Contacto!</h1>
