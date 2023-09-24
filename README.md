@@ -5,7 +5,7 @@
 
 <h1>Acerca de mí</h1>
 
-En 2020 decidí iniciar mis estudios hacia la informática, estudiando un Grado Medio, decidí seguir y me encaminé hacia el Superior de DAM, desde entonces me encanta la programación y me encanta programar. Soy un apasionado desarrollador en camino de seguir aprendiendo y desarrollando mis conocimientos.
+En 2020 decidí iniciar mis estudios hacia la informática, iniciando un Grado Medio, decidí seguir y me encaminé hacia el Superior de DAM, desde entonces me encanta la programación y me encanta programar. Soy un apasionado desarrollador en camino de seguir aprendiendo y desarrollando mis conocimientos.
 
 <h1>Lenguajes usados💻</h1> 
 
