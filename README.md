@@ -7,7 +7,7 @@
 
 En 2020 decidí iniciar mis estudios hacia la informática, iniciando un Grado Medio, decidí seguir y me encaminé hacia el Superior de DAM, desde entonces me encanta la programación y me encanta programar. Soy un apasionado desarrollador en camino de seguir aprendiendo y desarrollando mis conocimientos.
 
-<h1>Conociminetos adquiridos en Grado Medio y Superior</h1>
+<h1>Conocimientos adquiridos en Grado Medio y Superior</h1>
 
 Durante mi trayectoria en estos dos Grados, he ido adquiriendo algunos conocimientos como por ejemplo el uso de Hojas de Cálculo de Drive, en general, enfocado a la Ofimática, además, creando algunas páginas, sencillas, con HTML y CSS. JavaScript también lo usamos para algunos proyectos, más adelante nos adentramos en la programación en Java, también utilizamos PHP, Base de Datos entre otros.
 
