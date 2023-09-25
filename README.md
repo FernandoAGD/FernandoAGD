@@ -7,7 +7,7 @@
 
 En 2020 decidí iniciar mis estudios hacia la informática, iniciando un Grado Medio, decidí seguir y me encaminé hacia el Superior de DAM, desde entonces me encanta la programación y me encanta programar. Soy un apasionado desarrollador en camino de seguir aprendiendo y desarrollando mis conocimientos.
 
-Mi CV: (fernandoguerracv.pdf)
+[Mi CV:](fernandoguerracv.pdf)
 
 
 <h1>Conocimientos adquiridos en Grado Medio y Superior</h1>
