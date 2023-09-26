@@ -1,6 +1,6 @@
 <h1 align="center">¡Bienvenidos a mi perfil!</h1>
 <p align="center">
-    <img src="github-header-image (4).png" />
+    <img src="github-header-image (5).png" />
 </p>
 
 <h1>Acerca de mí</h1>
