@@ -1,6 +1,6 @@
 <h1 align="center">¡Bienvenidos a mi perfil!</h1>
 <p align="center">
-    <a href="https://imgur.com/xyWYmYc"><img src="https://i.imgur.com/xyWYmYc.png" title="source: imgur.com" /></a>
+    <img src="github-header-image (3).png" />
 </p>
 
 <h1>Acerca de mí</h1>
