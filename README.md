@@ -5,7 +5,7 @@
 
 <h1>Acerca de mí</h1>
 
-En 2020 decidí iniciar mis estudios hacia la informática, iniciando un Grado Medio, decidí seguir y me encaminé hacia el Superior de DAM, desde entonces me encanta la programación y me encanta programar. Soy un apasionado desarrollador en camino de seguir aprendiendo y desarrollando mis conocimientos.
+Soy Fernando, estudiante de Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM). En 2020 comencé mis estudios con un Grado Medio en Sistemas Microinformáticos y Redes, y posteriormente continué hacia el Grado Superior en el que me estoy formando actualmente. Me considero un apasionado del desarrollo de aplicaciones, en camino a seguir aprendiendo y enriqueciendo mis conocimientos.
 
 [Curriculum Vitae](fernandoguerracv.pdf)
 
