@@ -12,7 +12,7 @@ Soy Fernando, estudiante de Grado Superior en Desarrollo de Aplicaciones Multipl
 
 <h1>Conocimientos adquiridos en Grado Medio y Superior</h1>
 
-A lo largo de mi trayectoria en estos dos Grados, he adquirido diversos conocimientos en el campo de la informática. He desarrollado habilidades en el uso de aplicaciones de ofimática y he tenido la oportunidad de crear páginas web simples utilizando HTML y CSS. Además, he trabajado con JavaScript en diversos proyectos y, posteriormente, me sumergí en la programación en Java. También he tenido experiencia con PHP y la gestión de bases de datos, entre otros aspectos relacionados con la informática. Estoy comprometido en seguir ampliando mis conocimientos y habilidades en este campo.
+A lo largo de mi trayectoria en estos dos Grados, he adquirido diversos conocimientos en el campo de la informática. He desarrollado habilidades en el uso de aplicaciones de ofimática y he tenido la oportunidad de crear páginas web simples utilizando HTML y CSS. Además, he trabajado con JavaScript en diversos proyectos y, posteriormente, me sumergí en la programación en Java. También he tenido experiencia con PHP y la gestión de bases de datos.
 
 <h1>Lenguajes Y Tecnologias💻</h1> 
 
