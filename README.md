@@ -20,12 +20,12 @@ Escola Oficial d’idiomes (c. Vic, 3, 08223 Terrassa)
 
 2021- 2022
 
-En aquestes pràctiques FCT durant Grau Mig, vaig estar fent algunes feines bàsiques:
+Durante mis prácticas de Formación en Centros de Trabajo (FCT) durante el Grado Medio, realicé algunas tareas básicas:
 
-- Reparacions d’impressores, ordinadors i altres tipus de hadware. 
-- Elaboració de fulls de càlcul per la gestió de notes de l’alumnat. 
-- Suport en programació de software.
-- Resolució d’incidències als ordinadors de les aules.
+- Reparación de impresoras, computadoras y otros tipos de hardware.
+- Elaboración de hojas de cálculo para la gestión de notas del alumnado.
+- Soporte en programación de software.
+- Resolución de incidencias en las computadoras de las aulas.
 
 <h1>Lenguajes Y Tecnologias💻</h1> 
 
