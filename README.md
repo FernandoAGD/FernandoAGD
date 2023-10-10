@@ -14,6 +14,19 @@ En 2020 comencé mis estudios con un Grado Medio en Sistemas Microinformáticos 
 
 A lo largo de mi trayectoria en estos dos Grados, he adquirido diversos conocimientos en el campo de la informática. He desarrollado habilidades en el uso de aplicaciones de ofimática y he tenido la oportunidad de crear páginas web simples utilizando HTML y CSS. Además, he trabajado con JavaScript en diversos proyectos y, posteriormente, me sumergí en la programación en Java. También he tenido experiencia con PHP y la gestión de bases de datos.
 
+<h1>Experiencia FCT</h1>
+
+Escola Oficial d’idiomes (c. Vic, 3, 08223 Terrassa)
+
+2021- 2022
+
+En aquestes pràctiques FCT durant Grau Mig, vaig estar fent algunes feines bàsiques:
+
+- Reparacions d’impressores, ordinadors i altres tipus de hadware. 
+- Elaboració de fulls de càlcul per la gestió de notes de l’alumnat. 
+- Suport en programació de software.
+- Resolució d’incidències als ordinadors de les aules.
+
 <h1>Lenguajes Y Tecnologias💻</h1> 
 
 Estos son algunos lenguajes y tecnologias con las que he trabajado durante CFGM y CFGS
