@@ -1,6 +1,11 @@
 <h1 align="center">Hola, soy Fernando</h1>
 
+<div align="center">
+
 ![Static Badge](https://img.shields.io/badge/Linkedln-%231578D3?style=for-the-badge&logo=linkedIn)
+![Static Badge](https://img.shields.io/badge/Twitter-%23000000?style=for-the-badge&logo=Twitter)
+
+</div>
 
 <h1>Acerca de mí</h1>
 
