@@ -1,7 +1,9 @@
 <h1 align="center">Hola, soy Fernando</h1>
-<p align="center">
-    <img src="github-header-image (5).png" />
-</p>
+![Static Badge](https://img.shields.io/badge/Linkedln-%231578D3?style=for-the-badge&logo=linkedIn)
+
+//<p align="center">
+  //  <img src="github-header-image (5).png" />
+//</p>
 
 <h1>Acerca de mí</h1>
 
