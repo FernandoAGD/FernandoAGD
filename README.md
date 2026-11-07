@@ -5,8 +5,6 @@
 ![Static Badge](https://img.shields.io/badge/Linkedln-%231578D3?style=for-the-badge&logo=linkedIn)
 ![Static Badge](https://img.shields.io/badge/Twitter-%23000000?style=for-the-badge&logo=Twitter)
 
-</div>
-
 <h1>Acerca de mí</h1>
 
 En 2020 comencé mis estudios con un Grado Medio en Sistemas Microinformáticos y Redes, y posteriormente continué hacia el Grado Superior en el que me estoy formando actualmente. Me considero un apasionado del desarrollo de aplicaciones, en camino a seguir aprendiendo y enriqueciendo mis conocimientos.
